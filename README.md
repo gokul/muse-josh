@@ -1,2 +1,2 @@
 # muse-josh
-Minimalistic OS basedon JOSH
+Minimalistic OS based on JOSH
